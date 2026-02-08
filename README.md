@@ -1,4 +1,4 @@
-# comptianetworkplus
+# CompTIA Network+
 
 This repository serves as a hands-on learning laboratory designed to reinforce fundamental networking concepts, particularly those relevant to the CompTIA Network+ certification. Through practical Python projects, the learner can explore key topics such as binary conversions, IPv4 addressing, and subnetting.
 

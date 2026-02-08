@@ -53,7 +53,7 @@ Follow the on-screen prompts to interact with the scripts.
 
 ## Learning Philosophy
 
-This project adheres to a specific learning philosophy, prioritizing clarity and step-by-step understanding. For more details on the teaching style and coding expectations, please refer to the [GEMINI.md] (https://github.com/nickngarcia/comptianetworkplus/blob/main/GEMINI.md) file.
+This project adheres to a specific learning philosophy, prioritizing clarity and step-by-step understanding. For more details on the teaching style and coding expectations, please refer to the [GEMINI.md](https://github.com/nickngarcia/comptianetworkplus/blob/main/GEMINI.md) file.
 
 ## Development Environment
 
